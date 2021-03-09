@@ -1,2 +1,2 @@
-# ignite-chapter_I-github_explorer
-Aplicação que lista os repositórios do github
+
+Primeira aplicação desenvolvida no bootcamp Ignite da [Rocketseat](https://app.rocketseat.com.br/dashboard)
