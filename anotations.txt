@@ -1,0 +1,20 @@
+- (yarn add @babel/core @babel/cli @babel/preset-env -D) para instalar as configurações do Babel, converter código em JS qualquer navegador ler
+  - (yarn add @babel/preset-react - D) para converter o codigo jsx para o navegador entender
+  - (yarn add babel-loader)
+
+- (yarn add webpack webpack-cli webpack-dev-server -D) para instalar as configurações do Webpack
+  - (yarn add html-webpack-plugin -D)
+
+- (yarn add cross-env -D) para criar variáveis ambiente
+
+- (yarn add style-loader css-loader -D) para lidar com arquivos de estilização
+  - (yarn add sass loader) para lidar com arquivos .scss
+
+- (yarn add node-sass -D) para trabalhar com SASS no CSS
+
+- (yarn add @pmmmwh/react-refresh-webpack-plugin react-refresh -D) para nao perder o valor das variaveis armazenadas em um estado ao recarregar a página
+
+- (yarn add typescript -D) para instalar o TS
+  - (yarn add @babel/preset-typescript -D)
+  - (yarn add @types/react -D)
+  - (yarn add @types/react-dom -D)
